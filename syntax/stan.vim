@@ -23,3 +23,4 @@ hi def link stanFunction Function
 hi def link stanDistribution Type
 hi def link stanCppConflict Error
 
+let b:current_syntax = "stan"
